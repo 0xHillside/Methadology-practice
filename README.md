@@ -4,7 +4,7 @@
 This is to help document my journey when it comes to practicing my methodology, I have had this issue where I would either give up too quickly on a box due to my Impatience and lack of methodology, when it came to retired boxes I would be to eager to open the writeup and with the active ones I wouldn't even ask for a hint just give up
 
 #### References
-I did use Alex's [video](https://www.youtube.com/watch?v=jccqNN1jOgE) to be quite ones and then make my own sort of additions to it 
+I did use Alex's [video](https://www.youtube.com/watch?v=jccqNN1jOgE) to be quite ones and then make my own sort of additions to it, this incombination with advice given from other people who are much better than me too :) 
 
 So back to where we where this is a going to be split into three parts, 
 1. The methodology, 2.
@@ -27,15 +27,20 @@ here are some few tips n tricks to work on and do so you can try and be producti
 - Daily and weekly goals
 	- In 1 day of the week organize your thoughts to be able to know 
 	  what your planning to do in the upcoming week
+
+
 ## Methodology
 
-So here the main goal is setting achievable goals, in Alex's video he recommended doing 1 hour per box but Ill add to it an extension if I feel its necessary. make sure to actually understand everything. what's the technology being used?, how does it work? is it related to this current thing I'm doing?, is there any way I can take advantage of what I already know and what I just learnt?
+Moving from the video alex used, theres a new model I want to go for, if you are stuck at a box for 1 hour, you have a 1 hour extension to attempt at finishing it. now how much time you wanna spend on said box? thats your choice but for my model im going 1 hour getting user/root flag and 1 hour if im stuck in a certain position.
+
+#### Writeup reading rules
+ONLY READ ON WHERE YOUR STUCK!!!, this CANT be stressed enough because if you ready anymore your practically ruining it for yourself and you have automatically surrendered that box
 
 - Day 1
 	- User
 		- 1 hour
 			- 10 min break
-		- 1 hour extension
+		- 1 hour extension 
 - Day 2
 	- Root
 		- 1 hour

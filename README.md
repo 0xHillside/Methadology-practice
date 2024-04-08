@@ -36,6 +36,23 @@ Moving from the video alex used, theres a new model I want to go for, if you are
 #### Writeup reading rules
 ONLY READ ON WHERE YOUR STUCK!!!, this CANT be stressed enough because if you ready anymore your practically ruining it for yourself and you have automatically surrendered that box
 
+**Short speeds**
+
+- Day 1
+	- User
+		- 1 hour
+			- 10 min break
+		- 1 hour extension
+	- Root
+		- 1 hour
+			- 10 min break
+		- 1 hour extension
+
+
+-----
+
+**Long Road**
+
 - Day 1
 	- User
 		- 1 hour
@@ -46,6 +63,10 @@ ONLY READ ON WHERE YOUR STUCK!!!, this CANT be stressed enough because if you re
 		- 1 hour
 			- 10 min break
 		- 1 hour extension
+ 
+
+
+
 
 
 Note: you don't need to do the extension right after the 1 hour expires, you can exhaust that 1 hour maybe in the morning and then later on in the night use your extension!
